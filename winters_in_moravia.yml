@@ -1,0 +1,15 @@
+name: winters_in_moravia
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - plotly
+  - jupyterlab
+  - dash
+  - jupyter-dash
+  - nodejs=12.*
+  - matplotlib
+  - seaborn
